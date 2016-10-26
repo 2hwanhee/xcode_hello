@@ -17,5 +17,7 @@ int main(int argc, const char * argv[]) {
     printf("Hello hoho");
     printf("Hello! Local repository");
     printf("Hello! git pull");
+    
+    printf("wow c hello");
     return 0;
 }
